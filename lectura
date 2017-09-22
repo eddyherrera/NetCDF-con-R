@@ -1,0 +1,6 @@
+##RADAR TABLAZO ##
+#Autor Eddy Herrera Daza eherrera@javeriana.edu.co
+#primero Compruebe y restablezca el directorio de trabajo si es necesario.
+#1. Preparación: Abrir y leer un archvo en formato netCDF desde R#
+install.packages("ncdf4") 
+library(ncdf4)
